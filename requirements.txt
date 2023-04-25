@@ -1,3 +1,5 @@
-numpy==1.23.5
-scipy==1.10.1
+numpy
+scipy
 matplotlib==3.5.1
+math
+copy
